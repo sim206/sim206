@@ -11,7 +11,7 @@
 <h2> 👩‍💻 Mechanical Engineering Projects Projects:</h2>
 
 - <b>Sterling Engine</b>
-  - Energy Recovery System(https://github.com/joshmadakor1/Algorithms-Practice)
+  - Energy Recovery System
     
 - <b>Development of a Fatigue Life Methodology</b>
   - Development of a Fatigue Life Methodology for High Cycle Fatigue using ANSYS Finite Element Analysis
