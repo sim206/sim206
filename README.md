@@ -1,7 +1,54 @@
-### Hi there 👋
+<h1 align="center">Hi, Im Seshmira! <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Sesh.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+
+
+<h2> 👩‍💻 Mechanical Engineering Projects Projects:</h2>
+
+- <b>Sterling Engine</b>
+  - Energy Recovery System(https://github.com/joshmadakor1/Algorithms-Practice)
+    
+- <b>Development of a Fatigue Life Methodology</b>
+  - Development of a Fatigue Life Methodology for High Cycle Fatigue using ANSYS Finite Element Analysis
+
+- <b>Automative Cruise Control</b>
+  - The creation of the optimal control simulation for the linearised dynamics of a car under a cruise control system
+
+<h2>⚙️ Internship Project </h2>
+
+- <b>Designing a Tensile Benchtop Test</b>
+
+- <b>Laser Ultrasonic Method</b>
+
+<h2> 🛰 Masters Project </h2>
+
+- <b>Evaluating the efficacy of satellite imagery </b>
+   - Surveying of marine plastic litter and gas emissions for use on Gili Islands
+
+<h2> 🚄 Hyperloop: Strathloop </h2>
+
+- [Strathloop](https://strathloop.com/)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: [https://twitter.com/seshmira](https://twitter.com/seshmira)
+[instagram]: https://www.instagram.com/sesh_mira/
+[linkedin]: [https://linkedin.com/in/seshmira](https://www.linkedin.com/in/seshmira-mahilall/)
 
 <!--
-**sim206/sim206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  
 
 Here are some ideas to get you started:
 
@@ -14,3 +61,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
