@@ -12,17 +12,14 @@
 
 - <b>Sterling Engine</b>
   - Energy Recovery System
-    
 - <b>Development of a Fatigue Life Methodology</b>
   - Development of a Fatigue Life Methodology for High Cycle Fatigue using ANSYS Finite Element Analysis
-
 - <b>Automative Cruise Control</b>
   - The creation of the optimal control simulation for the linearised dynamics of a car under a cruise control system
 
 <h2>⚙️ Internship Project </h2>
 
 - <b>Designing a Tensile Benchtop Test</b>
-
 - <b>Laser Ultrasonic Method</b>
 
 <h2> 🛰 Masters Project </h2>
@@ -46,7 +43,7 @@
 [linkedin]: [https://linkedin.com/in/seshmira](https://www.linkedin.com/in/seshmira-mahilall/)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
   
 
