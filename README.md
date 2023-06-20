@@ -13,7 +13,7 @@
 - <b>Sterling Engine</b>
   - [Energy Recovery System](https://github.com/sim206/G13SterlingEngine/tree/main)
 - <b>Development of a Fatigue Life Methodology</b>
-  - Development of a Fatigue Life Methodology for High Cycle Fatigue using ANSYS Finite Element Analysis
+  - [Development of a Fatigue Life Methodology for High Cycle Fatigue using ANSYS Finite Element Analysis](https://github.com/sim206/HCF_Dissertation/tree/main)
 - <b>Automative Cruise Control</b>
   - The creation of the optimal control simulation for the linearised dynamics of a car under a cruise control system
 
