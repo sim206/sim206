@@ -7,7 +7,6 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 
-
 <h2> 👩‍💻 Mechanical Engineering Projects Projects:</h2>
 
 - <b>Sterling Engine</b>
@@ -15,7 +14,10 @@
 - <b>Development of a Fatigue Life Methodology</b>
   - [Development of a Fatigue Life Methodology for High Cycle Fatigue using ANSYS Finite Element Analysis](https://github.com/sim206/HCF_Dissertation/tree/main)
 - <b>Automative Cruise Control</b>
-  - T[he creation of the optimal control simulation for the linearised dynamics of a car under a cruise control system](https://github.com/sim206/Automative_Cruise_Control)
+  - [The creation of the optimal control simulation for the linearised dynamics of a car under a cruise control system](https://github.com/sim206/Automative_Cruise_Control)
+- <b>CFD Analysis: Heat-Chamber-Chimney System</b>
+  - [Chimney or smokestack configurations are widespread in the artificial environment]
+
 
 <h2>⚙️ Internship Project </h2>
 
