@@ -16,7 +16,7 @@
 - <b>Automative Cruise Control</b>
   - [The creation of the optimal control simulation for the linearised dynamics of a car under a cruise control system](https://github.com/sim206/Automative_Cruise_Control)
 - <b>CFD Analysis: Heat-Chamber-Chimney System</b>
-  - [Chimney or smokestack configurations are widespread in the artificial environment]
+  - [Chimney or smokestack configurations are widespread in the artificial environment](https://github.com/sim206/CFD/tree/main)
 
 
 <h2>⚙️ Internship Project </h2>
