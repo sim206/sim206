@@ -27,7 +27,7 @@
 <h2> 🛰 Masters Project </h2>
 
 - <b>Evaluating the efficacy of satellite imagery </b>
-   - Surveying of marine plastic litter and gas emissions for use on Gili Islands
+   - [Surveying of marine plastic litter and gas emissions for use on Gili Islands](https://github.com/sim206/Masters/tree/main)
 
 <h2> 🚄 Hyperloop: Strathloop </h2>
 
