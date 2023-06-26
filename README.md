@@ -7,7 +7,7 @@
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
 
-<h2> 👩‍💻 Mechanical Engineering Projects Projects:</h2>
+<h2> 👩‍💻 Mechanical Engineering Projects:</h2>
 
 - <b>Sterling Engine</b>
   - [Energy Recovery System](https://github.com/sim206/G13SterlingEngine/tree/main)
