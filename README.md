@@ -21,7 +21,7 @@
 
 <h2>⚙️ Internship Project </h2>
 
-- <b>Designing a Tensile Benchtop Test</b>
+- <b>[Designing a Tensile Benchtop Test](https://github.com/sim206/Internship/tree/main)</b>
 - <b>Laser Ultrasonic Method</b>
 
 <h2> 🛰 Masters Project </h2>
