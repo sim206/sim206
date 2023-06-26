@@ -31,7 +31,7 @@
 
 <h2> 🚄 Hyperloop: Strathloop </h2>
 
-- [Strathloop](https://strathloop.com/)
+- [Strathloop Website](https://strathloop.com/)
 
 
 <h2> 🤳 Connect with me:</h2>
